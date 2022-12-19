@@ -1,0 +1,365 @@
+﻿
+@{
+    ViewData["Title"] = "CategoriaPedidos";
+}
+
+<div class="container py-3">
+    <main>
+        <div class="h-100 row row-cols-1 row-cols-md-1 mb-0 espaco_mesas text-center">
+            <div class="col h-100">
+                <div class="card mb-2 rounded-3 shadow-sm">
+                    <div class=" card-header py-0 " id="alarme1" style="background-color: orangered; color: white;">
+                        <h4 class="my-0 fw-normal" id="titleLanches">Lanches</h4>
+                    </div>
+                    <div class="card-body">
+                        <ul class="list-unstyled mt-3 mb-2">
+                            <li id="status3" class="lista">
+                                <img id="imgStatus3" src="~/img/Lanches/lanche.png" />
+                            </li>
+                            <br />
+                            <li id="status3" class="lista">
+                                <button type="button" id="1" onclick="BuscarItensPedido()" class="btn btn-primary w-75" data-toggle="modal" data-target="#exampleModalCenter">Exibir Lanches</button>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col h-100">
+                <div class="card mb-2 rounded-3 shadow-sm">
+                    <div class=" card-header py-0 " id="alarme1" style="background-color: orangered; color: white;">
+                        <h4 class="my-0 fw-normal" id="TituloEquipamento1">Porções</h4>
+                    </div>
+                    <div class="card-body">
+                        <ul class="list-unstyled mt-3 mb-2">
+                            <li id="status3" class="lista">
+                                <img id="imgStatus3" src="~/img/Porcoes/porcoes.png" />
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col h-100">
+                <div class="card mb-2 rounded-3 shadow-sm">
+                    <div class=" card-header py-0 " id="alarme1" style="background-color:orangered; color: white;">
+                        <h4 class="my-0 fw-normal" id="TituloEquipamento1">Pizzas</h4>
+                    </div>
+                    <div class="card-body">
+                        <ul class="list-unstyled mt-3 mb-2">
+                            <li id="status3" class="lista">
+                                <img id="imgStatus3" src="~/img/Pizza/pizza.png" />
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="h-100 row row-cols-1 row-cols-md-1 mb-0 espaco_mesas text-center">
+            <div class="col h-100">
+                <div class="card mb-2 rounded-3 shadow-sm">
+                    <div class=" card-header py-0 " id="alarme1" style="background-color:orangered; color:white;">
+                        <h4 class="my-0 fw-normal" id="TituloEquipamento1">Refrigerantes</h4>
+                    </div>
+                    <div class="card-body">
+                        <ul class="list-unstyled mt-3 mb-2">
+                            <li id="status3" class="lista">
+                                <img id="imgStatus3" src="~/img/Refrigerante/refrigerante.png" />
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col h-100">
+                <div class="card mb-2 rounded-3 shadow-sm">
+                    <div class=" card-header py-0 " id="alarme1" style="background-color:orangered; color:white;">
+                        <h4 class="my-0 fw-normal" id="TituloEquipamento1">Sucos</h4>
+                    </div>
+                    <div class="card-body">
+                        <ul class="list-unstyled mt-3 mb-2">
+                            <li id="status3" class="lista">
+                                <img id="imgStatus3" src="~/img/Suco/suco.png" />
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col h-100">
+                <div class="card mb-2 rounded-3 shadow-sm">
+                    <div class=" card-header py-0 " id="alarme1" style="background-color:orangered; color:white;">
+                        <h4 class="my-0 fw-normal" id="TituloEquipamento1">Bebidas</h4>
+                    </div>
+                    <div class="card-body">
+                        <ul class="list-unstyled mt-3 mb-2">
+                            <li id="status3" class="lista">
+                                <img id="imgStatus3" src="~/img/Cervejas/cerveja.png" />
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="h-100 row row-cols-1 row-cols-md-1 mb-0 espaco_mesas text-center">
+            <div class="col h-100">
+                <div class="card mb-2 rounded-3 shadow-sm">
+                    <div class=" card-header py-0 " id="alarme1" style="background-color:orangered; color:white;">
+                        <h4 class="my-0 fw-normal" id="TituloEquipamento1">Refrigerante</h4>
+                    </div>
+                    <div class="card-body">
+                        <ul class="list-unstyled mt-3 mb-2">
+                            <li id="status3" class="lista">
+                                <img id="imgStatus3" src="~/img/Refrigerante/refrigerante.png" />
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col h-100">
+                <div class="card mb-2 rounded-3 shadow-sm">
+                    <div class=" card-header py-0 " id="alarme1" style="background-color:orangered; color:white;">
+                        <h4 class="my-0 fw-normal" id="TituloEquipamento1">Refrigerante</h4>
+                    </div>
+                    <div class="card-body">
+                        <ul class="list-unstyled mt-3 mb-2">
+                            <li id="status3" class="lista">
+                                <img id="imgStatus3" src="~/img/Refrigerante/refrigerante.png" />
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col h-100">
+                <div class="card mb-2 rounded-3 shadow-sm">
+                    <div class=" card-header py-0 " id="alarme1" style="background-color:orangered; color:white;">
+                        <h4 class="my-0 fw-normal" id="TituloEquipamento1">Refrigerante</h4>
+                    </div>
+                    <div class="card-body">
+                        <ul class="list-unstyled mt-3 mb-2">
+                            <li id="status3" class="lista">
+                                <img id="imgStatus3" src="~/img/Refrigerante/refrigerante.png" />
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Modal -->
+        <div class="modal fade bd-example-modal-lg" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLongTitle">Modal title</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <table class="table table-hover" id="tabelaElementos">
+                            <thead id="CabecalhoTabela">
+
+                            </thead>
+                            <tbody id="CorpoTabela">
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        <button type="button" class="btn btn-primary">Save changes</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </main>
+</div>
+
+@section Scripts
+{
+
+    <script>
+        function BuscarItensPedido() {
+            $(document).ready(function ()
+            {
+                $.ajax({
+                    type: "POST",
+                    url: "@Url.ActionLink("ItemPedido")",
+               
+                    dataType: "JSON",
+                    success: function (dados)
+                    {
+                        let cabec = $("#CabecalhoTabela");
+                        let corpo = $("#CorpoTabela");
+
+                        cabec.empty();
+                        corpo.empty();
+
+                        var linhacabec = document.createElement("tr");
+                        var colunaId = document.createElement("td");
+                        var colunaNome = document.createElement("td");
+                        var colunaCliente = document.createElement("td");
+                        var colunaQuantidade = document.createElement("td");
+                        var colunaBotao = document.createElement("td");
+
+                       
+                        var strongId = document.createElement("strong");
+                        var strongNome = document.createElement("strong");
+                        var strongCliente = document.createElement("strong");
+                        var strongQuantidade = document.createElement("strong");
+                        var strongBotao= document.createElement("strong");
+                      
+                        var Id = document.createTextNode("Id");
+                        var Nome = document.createTextNode("Nome");
+                        var Cliente = document.createTextNode("Cliente");
+                        var Quantidade = document.createTextNode("Quantidade");
+                        var Select = document.createTextNode("Selecionar");
+
+                       
+                        strongId.appendChild(Id);
+                        strongNome.appendChild(Nome);
+                        strongCliente.appendChild(Cliente);
+                        strongQuantidade.appendChild(Quantidade);
+                        strongBotao.appendChild(Select);
+                       
+
+                        colunaId.appendChild(strongId);
+                        colunaNome.appendChild(strongNome);
+                        colunaCliente.appendChild(strongCliente);
+                        colunaQuantidade.appendChild(strongQuantidade);
+                        colunaBotao.appendChild(strongBotao);
+
+                        linhacabec.appendChild(colunaId);
+                        linhacabec.appendChild(colunaNome);
+                        linhacabec.appendChild(colunaCliente);
+                        linhacabec.appendChild(colunaQuantidade);
+                        linhacabec.appendChild(colunaBotao);
+
+                        document.getElementById("CabecalhoTabela").appendChild(linhacabec);
+                        let i = 1;
+                        $(dados).each(function () {
+                            var linhabody = document.createElement("tr");
+                            var colunaValorId = document.createElement("td");
+                            var colunaValorNome = document.createElement("td");
+                            var colunaValorCliente = document.createElement("td");
+                            var colunaValorQuantidade = document.createElement("td");
+                            var colunaValorBotao = document.createElement("td");
+
+                            var strongValorId = document.createElement("strong");
+                            var strongValorNome = document.createElement("strong");
+                            var strongValorCliente = document.createElement("strong");
+                            var strongValorQuantidade = document.createElement("strong");
+                            var strongValorBotao = document.createElement("strong");
+
+                            var IdValor = document.createTextNode(this.ItenId);
+                            IdValor.id = "txtId" + i;
+                            var NomeValor = document.createTextNode(this.Nome);
+                            var ClienteValor = document.createElement("input");
+                            ClienteValor.type = 'text';
+                            ClienteValor.id = "txtClienteValor" + i;
+                            ClienteValor.style.width = "100px";
+                            var QuantidadeValor = document.createElement("input");
+                            QuantidadeValor.id = "txtQuantidade" + i;
+                            QuantidadeValor.type = 'number';
+                            QuantidadeValor.min = "0";
+                            QuantidadeValor.max = "100";
+                            QuantidadeValor.value = "0";
+                            var ValorBotao = document.createElement("button");
+                            ValorBotao.className = "btn btn-primary w-75";
+                            ValorBotao.textContent = "Pedir Item";
+                            ValorBotao.id = "Botao" + i;
+                            ValorBotao.onclick = Teste;
+
+                            strongValorId.appendChild(IdValor);
+                            strongValorNome.appendChild(NomeValor);
+                            strongValorCliente.appendChild(ClienteValor);
+                            strongValorQuantidade.appendChild(QuantidadeValor);
+                            strongValorBotao.appendChild(ValorBotao);
+
+                            colunaValorId.appendChild(strongValorId);
+                            colunaValorNome.appendChild(strongValorNome);
+                            colunaValorCliente.appendChild(strongValorCliente);
+                            colunaValorQuantidade.appendChild(strongValorQuantidade);
+                            colunaValorBotao.appendChild(strongValorBotao);
+
+                            linhabody.appendChild(colunaValorId);
+                            linhabody.appendChild(colunaValorNome);
+                            linhabody.appendChild(colunaValorCliente);
+                            linhabody.appendChild(colunaValorQuantidade);
+                            linhabody.appendChild(colunaValorBotao);
+
+                            document.getElementById("CorpoTabela").appendChild(linhabody);
+
+                            i++;
+                        });
+
+                    },
+                    error: function (mgs) {
+                        alert("ERRO");
+                    }
+                })
+
+            })
+        };
+    </script>
+    <script>
+        function Teste() {
+            var i = 0;
+            let numeroBotao = "";
+            var Cliente = "";
+            var Quantidade = "";
+             $(document).ready(function () {
+
+                 document.querySelectorAll("button").forEach(function (button) {
+
+                     $(button).unbind();
+                     $(button).on("click", function (event) {
+
+                         const el = event.target || event.srcElement;
+                         const id = el.id;
+                         var tamanhoIdBotao = id.length
+                         if (tamanhoIdBotao < 5)
+                             return
+                         if (tamanhoIdBotao == 6) {
+                             numeroBotao = id.substring(4,2);
+                         }
+                         else if (tamanhoIdBotao == 7)
+                         {
+                             numeroBotao = id.substring(5,7);
+                         }
+                         Cliente = document.getElementById("ClienteValor"+i).innerText;
+                         Quantidade = document.getElementById("QuantidadeValor"+i).innerText;
+
+                         alert(id + " " + i + " " + tamanho + " " + numeroBotao);
+                        i++;
+                     });
+
+
+                 });
+                 $.ajax({
+                    type: "POST",
+                    url: "@Url.ActionLink("FecharPedido", "Pedido")",
+                    data: { IdPedido: idPedido, IdMesa: idMesa, TipoPagamento: tipoPagamento },
+                    dataType: "JSON",
+                    success: function ()
+                    {
+                        alert(getElementById("txtId" + valor));
+                    },
+                    error: function (mgs) {
+                        alert("ERRO");
+                    }
+                })
+
+            })
+        };
+    </script>
+
+}
