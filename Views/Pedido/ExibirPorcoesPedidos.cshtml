@@ -1,0 +1,127 @@
+﻿
+@{
+    ViewData["Title"] = "ExibirPorcoesPedidos";
+}
+
+<div class="row  justify-content-center align-middle" id="tabelaElementos">
+    <div class="col-md-8 bg-white justify-content-md-center align-middle" id="tabelaElementos">
+        <br />
+        <button type="button" class="btn btn-primary" onclick="BuscarItensPedido()" data-toggle="modal" data-target="#exampleModalCenter" style="width: 30px;">A</button>
+        <table class="table table-hover" id="tabelaElementos">
+            <thead id="CabecalhoTabela">
+
+            </thead>
+            <tbody id="CorpoTabela">
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@section Scripts
+{
+    <script>
+        function BuscarItensPedido() {
+            $(document).ready(function () {
+
+                $.ajax({
+                    type: "POST",
+                    url: "@Url.ActionLink("LanchesPedidos")",
+                    dataType: "JSON",
+                    success: function (dados) {
+                        let cabec = $("#CabecalhoTabela");
+                        let corpo = $("#CorpoTabela");
+
+                        cabec.empty();
+                        corpo.empty();
+
+                        var linhacabec = document.createElement("tr");
+                        var colunaIdPedido = document.createElement("td");
+                        var colunaIdItemPedido = document.createElement("td");
+                        var colunaQuantidade = document.createElement("td");
+                        var colunaNome = document.createElement("td");
+                        var colunaCliente = document.createElement("td");
+
+                        var strongIdPedido = document.createElement("strong");
+                        var strongIdItemPedido = document.createElement("strong");
+                        var strongQuantidade = document.createElement("strong");
+                        var strongNome = document.createElement("strong");
+                        var strongCliente = document.createElement("strong");
+
+                        var IdPedido = document.createTextNode("Pedido");
+                        var IdItemPedido = document.createTextNode("Item Pedido");
+                        var Quantidade = document.createTextNode("Quantidade");
+                        var Nome = document.createTextNode("Nome");
+                        var Cliente = document.createTextNode("Cliente");
+
+                        strongIdPedido.appendChild(IdPedido);
+                        strongIdItemPedido.appendChild(IdItemPedido);
+                        strongQuantidade.appendChild(Quantidade);
+                        strongNome.appendChild(Nome);
+                        strongCliente.appendChild(Cliente);
+
+                        colunaIdPedido.appendChild(strongIdPedido);
+                        colunaIdItemPedido.appendChild(strongIdItemPedido);
+                        colunaQuantidade.appendChild(strongQuantidade);
+                        colunaNome.appendChild(strongNome);
+                        colunaCliente.appendChild(strongCliente);
+
+                        linhacabec.appendChild(colunaIdPedido);
+                        linhacabec.appendChild(colunaIdItemPedido);
+                        linhacabec.appendChild(colunaQuantidade);
+                        linhacabec.appendChild(colunaNome);
+                        linhacabec.appendChild(colunaCliente);
+
+                        document.getElementById("CabecalhoTabela").appendChild(linhacabec);
+
+                        $(dados).each(function () {
+                            alert(this.Nome + " " + this.Cliente + " " + this.Quantidade + " " + this.IdPedido + " " + this.IdItemPedido)
+                            var linhabody = document.createElement("tr");
+                            var colunaValorIdPedido = document.createElement("td");
+                            var colunaValorIdItemPedido = document.createElement("td");
+                            var colunaValorQuantidade = document.createElement("td");
+                            var colunaValorNome = document.createElement("td");
+                            var colunaValorCliente = document.createElement("td");
+
+                            var strongValorIdPedido = document.createElement("strong");
+                            var strongValorIdItemPedido = document.createElement("strong");
+                            var strongValorQuantidade = document.createElement("strong");
+                            var strongValorNome = document.createElement("strong");
+                            var strongValorCliente = document.createElement("strong");
+
+                            var ValorIdPedido = document.createTextNode(this.IdPedido);
+                            var ValorIdItemPedido = document.createTextNode(this.IdItemPedido);
+                            var ValorQuantidade = document.createTextNode(this.Quantidade);
+                            var ValorNome = document.createTextNode(this.Nome);
+                            var ValorCliente = document.createTextNode(this.Cliente);
+
+                            strongValorIdPedido.appendChild(ValorIdPedido);
+                            strongValorIdItemPedido.appendChild(ValorIdItemPedido);
+                            strongValorQuantidade.appendChild(ValorQuantidade);
+                            strongValorNome.appendChild(ValorNome);
+                            strongValorCliente.appendChild(ValorCliente);
+
+                            colunaValorIdPedido.appendChild(strongValorIdPedido);
+                            colunaValorIdItemPedido.appendChild(strongValorIdItemPedido);
+                            colunaValorQuantidade.appendChild(strongValorQuantidade);
+                            colunaValorNome.appendChild(strongValorNome);
+                            colunaValorCliente.appendChild(strongValorCliente);
+
+                            linhabody.appendChild(colunaValorIdPedido);
+                            linhabody.appendChild(colunaValorIdItemPedido);
+                            linhabody.appendChild(colunaValorQuantidade);
+                            linhabody.appendChild(colunaValorNome);
+                            linhabody.appendChild(colunaValorCliente);
+
+                            document.getElementById("CorpoTabela").appendChild(linhabody);
+                        });
+                    },
+                    error: function (mgs) {
+                        alert("ERRO");
+                    }
+                })
+            })
+        };
+    </script>
+}
+
+

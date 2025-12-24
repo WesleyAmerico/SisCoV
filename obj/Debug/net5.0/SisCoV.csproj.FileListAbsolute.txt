@@ -1,0 +1,279 @@
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\appsettings.json
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\SisCoV.exe
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\SisCoV.deps.json
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\SisCoV.runtimeconfig.json
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\SisCoV.runtimeconfig.dev.json
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\SisCoV.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\SisCoV.pdb
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\SisCoV.Views.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\SisCoV.Views.pdb
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\Humanizer.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.csproj.AssemblyReference.cache
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.AssemblyInfoInputs.cache
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.AssemblyInfo.cs
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.csproj.CoreCompileInputs.cache
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.RazorAssemblyInfo.cache
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.RazorAssemblyInfo.cs
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\scopedcss\bundle\SisCoV.styles.css
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\staticwebassets\SisCoV.StaticWebAssets.Manifest.cache
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\staticwebassets\SisCoV.StaticWebAssets.Pack.cache
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\staticwebassets\msbuild.SisCoV.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\staticwebassets\msbuild.build.SisCoV.props
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.SisCoV.props
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.SisCoV.props
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.TagHelpers.input.cache
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.TagHelpers.output.cache
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.RazorCoreGenerate.cache
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\Razor\Views\Pedido\CategoriaPedidos.cshtml.g.cs
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\Razor\Views\Pedido\ExibirBebidasPedidos.cshtml.g.cs
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\Razor\Views\Pedido\ExibirLanchesPedidos.cshtml.g.cs
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\Razor\Views\Pedido\ExibirPorcoesPedidos.cshtml.g.cs
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\Razor\Views\Pedido\ItemPedido.cshtml.g.cs
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\Razor\Views\Shared\_Footer.cshtml.g.cs
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\Razor\Views\Shared\_MenuSuperior.cshtml.g.cs
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\Razor\Views\Shared\_SideBar.cshtml.g.cs
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.RazorTargetAssemblyInfo.cache
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.RazorTargetAssemblyInfo.cs
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.Views.pdb
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.csproj.CopyComplete
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\refint\SisCoV.dll
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.pdb
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.genruntimeconfig.cache
+C:\Users\wesle\Documents\1.Sistemas\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\ref\SisCoV.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\appsettings.Development.json
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\appsettings.json
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\SisCoV.exe
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\SisCoV.deps.json
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\SisCoV.runtimeconfig.json
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\SisCoV.runtimeconfig.dev.json
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\SisCoV.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\SisCoV.pdb
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\SisCoV.Views.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\SisCoV.Views.pdb
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\Google.Protobuf.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\Humanizer.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\MySql.Data.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\ZstdNet.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.csproj.AssemblyReference.cache
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.GeneratedMSBuildEditorConfig.editorconfig
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.AssemblyInfoInputs.cache
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.AssemblyInfo.cs
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.csproj.CoreCompileInputs.cache
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.MvcApplicationPartsAssemblyInfo.cache
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.RazorAssemblyInfo.cache
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.RazorAssemblyInfo.cs
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.sourcelink.json
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.TagHelpers.input.cache
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.TagHelpers.output.cache
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.RazorCoreGenerate.cache
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\Razor\Views\Pedido\CategoriaPedidos.cshtml.g.cs
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\Razor\Views\Pedido\ExibirBebidasPedidos.cshtml.g.cs
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\Razor\Views\Pedido\ExibirLanchesPedidos.cshtml.g.cs
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\Razor\Views\Pedido\ExibirPorcoesPedidos.cshtml.g.cs
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\Razor\Views\Pedido\ItemPedido.cshtml.g.cs
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\Razor\Views\Shared\_Footer.cshtml.g.cs
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\Razor\Views\Shared\_MenuSuperior.cshtml.g.cs
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\Razor\Views\Shared\_SideBar.cshtml.g.cs
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.RazorTargetAssemblyInfo.cache
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.RazorTargetAssemblyInfo.cs
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.Views.pdb
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\scopedcss\bundle\SisCoV.styles.css
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\staticwebassets\SisCoV.StaticWebAssets.Manifest.cache
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\staticwebassets\SisCoV.StaticWebAssets.Pack.cache
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\staticwebassets\msbuild.SisCoV.Microsoft.AspNetCore.StaticWebAssets.props
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\staticwebassets\msbuild.build.SisCoV.props
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.SisCoV.props
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.SisCoV.props
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.csproj.Up2Date
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\refint\SisCoV.dll
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.pdb
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\SisCoV.genruntimeconfig.cache
+E:\3.Projetos\1. Sistemas\1. Desktop\1. C#\SisCoV_DotnetCore_5\SisCoV\obj\Debug\net5.0\ref\SisCoV.dll

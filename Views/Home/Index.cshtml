@@ -1,0 +1,701 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container py-3">
+    <main>
+        <div class="h-100 row row-cols-1 row-cols-md-1 mb-0 espaco_mesas text-center">
+            <div class="col h-100">
+                <div class="card mb-4 rounded-3 shadow-sm">
+                    <div class="card-header py-0 " id="mesa0" style=" background-color: orangered; color:white;">
+                        <h6 class="my-0 fw-normal" id="Mesa0">Balcão</h6>
+                    </div>
+                    <div class="card-body">
+                        <ul class="list-unstyled mt-3 mb-2">
+                            <li>
+                                <img id="imgStatus3" src="~/img/Balcao/balcao.png" />
+                            </li>
+                            <li>
+                                <button type="button" class="btn btn-primary" onclick="CriarPedido(1)" style="width: 80%;">C</button>
+                            </li>
+                            <li>
+                                <button type="button" class="btn btn-danger" onclick="BuscarItensPedido(1)" data-toggle="modal" data-target="#exampleModalCenter" style="width: 80%;">F</button>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col h-100">
+                <div class="card mb-4 rounded-3 shadow-sm">
+                    <div class="card-header py-0" id="mesa1" style=" background-color: orangered; color:white;">
+                        <h6 class="my-0 fw-normal" id="TituloEquipamento2">Mesa 1</h6>
+                    </div>
+                    <div class="card-body">
+                        <ul class="list-unstyled mt-3 mb-2">
+                            <li>
+                                <img id="imgStatus3" src="~/img/Mesa/mesa.png" />
+                            </li>
+                            <li>
+                                <button type="button" class="btn btn-primary" id="btnCriarPedidoMesa1" onclick="CriarPedido(1)" style="width: 80%;">C</button>
+                            </li>
+                            <li>
+                                <button type="button" class="btn btn-danger" id="btnFecharPedidoMesa1" onclick="BuscarItensPedido(1)" data-toggle="modal" data-target="#exampleModalCenter" style="width: 80%;">F</button>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col h-100">
+                <div class="card mb-sm-4 rounded-sm shadow-sm">
+                    <div class="card-header py-0" id="mesa2" style=" background-color: orangered; color: white;">
+                        <h6 class="my-0 fw-normal" id="TituloEquipamento3">Mesa 2</h6>
+                    </div>
+                    <div class="card-body">
+                        <ul class="list-unstyled mt-3 mb-2">
+                            <li>
+                                <img id="imgStatus3" src="~/img/Mesa/mesa.png" />
+                            </li>
+                            <li>
+                                <button type="button" class="btn btn-primary"  id="btnCriarPedidoMesa2" onclick="CriarPedido(2)"  style="width: 80%;">C</button>
+                            </li>
+                            <li>
+                                <button type="button" class="btn btn-danger" id="btnFecharPedidoMesa2" onclick="BuscarItensPedido(2)" data-toggle="modal" data-target="#exampleModalCenter" style="width: 80%;">F</button>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col h-100">
+                <div class="card mb-sm-4 rounded-sm shadow-sm">
+                    <div class="card-header py-0" id="mesa3" style=" background-color: orangered; color: white;">
+                        <h6 class="my-0 fw-normal" id="TituloEquipamento3">Mesa 3</h6>
+                    </div>
+                    <div class="card-body">
+                        <img id="imgStatus3" src="~/img/Mesa/mesa.png" />
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col h-100">
+                <div class="card mb-sm-4 rounded-sm shadow-sm">
+                    <div class="card-header py-0" id="mesa4" style=" background-color: orangered; color:white;">
+                        <h6 class="my-0 fw-normal" id="TituloEquipamento3">Mesa 4</h6>
+                    </div>
+                    <div class="card-body">
+                        <img id="imgStatus3" src="~/img/Mesa/mesa.png" />
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col h-100">
+                <div class="card mb-sm-4 rounded-sm shadow-sm">
+                    <div class="card-header py-0" id="mesa5" style=" background-color: orangered; color:white;">
+                        <h6 class="my-0 fw-normal" id="TituloEquipamento3">Mesa 5</h6>
+                    </div>
+                    <div class="card-body">
+                        <img id="imgStatus3" src="~/img/Mesa/mesa.png" />
+                    </div>
+                </div>
+            </div>
+
+            <div class="col h-100">
+                <div class="card mb-sm-4 rounded-sm shadow-sm">
+                    <div class="card-header py-0" id="mesa6" style=" background-color: orangered; color:white;">
+                        <h6 class="my-0 fw-normal" id="TituloEquipamento3">Mesa 6</h6>
+                    </div>
+                    <div class="card-body">
+                        <img id="imgStatus3" src="~/img/Mesa/mesa.png" />
+                    </div>
+                </div>
+            </div>
+
+            <div class="col h-100">
+                <div class="card mb-sm-4 rounded-sm shadow-sm">
+                    <div class="card-header py-0" id="mesa7" style=" background-color: orangered; color:white;">
+                        <h6 class="my-0 fw-normal" id="TituloEquipamento3">Mesa 7</h6>
+                    </div>
+                    <div class="card-body">
+                        <img id="imgStatus3" src="~/img/Mesa/mesa.png" />
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="h-100 row row-cols-1 row-cols-md-1 mb-0 espaco_mesas text-center">
+            <div class="col h-100">
+                <div class="card mb-sm-4 rounded-3 shadow-sm">
+                    <div class="card-header py-0 " id="mesa8" style=" background-color: orangered; color:white;">
+                        <h6 class="my-0 fw-normal" id="Mesa0">Mesa 8</h6>
+                    </div>
+                    <div class="card-body">
+                        <img id="imgStatus3" src="~/img/Mesa/mesa.png" />
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col h-100">
+                <div class="card mb-sm-4 rounded-3 shadow-sm">
+                    <div class="card-header py-0" id="mesa9" style=" background-color: orangered; color:white;">
+                        <h6 class="my-0 fw-normal" id="TituloEquipamento2">Mesa 9</h6>
+                    </div>
+                    <div class="card-body">
+                        <img id="imgStatus3" src="~/img/Mesa/mesa.png" />
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col h-100">
+                <div class="card mb-sm-4 rounded-sm shadow-sm">
+                    <div class="card-header py-0" id="mesa10" style=" background-color: orangered; color:white;">
+                        <h6 class="my-0 fw-normal" id="TituloEquipamento3">Mesa 10</h6>
+                    </div>
+                    <div class="card-body">
+                        <img id="imgStatus3" src="~/img/Mesa/mesa.png" />
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col h-100">
+                <div class="card mb-sm-4 rounded-sm shadow-sm">
+                    <div class="card-header py-0" id="mesa11" style=" background-color: orangered; color:white;">
+                        <h6 class="my-0 fw-normal" id="TituloEquipamento3">Mesa 11</h6>
+                    </div>
+                    <div class="card-body">
+                        <img id="imgStatus3" src="~/img/Mesa/mesa.png" />
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col h-100">
+                <div class="card mb-sm-4 rounded-sm shadow-sm">
+                    <div class="card-header py-0" id="mesa12" style=" background-color: orangered; color:white;">
+                        <h6 class="my-0 fw-normal" id="TituloEquipamento3">Mesa 12</h6>
+                    </div>
+                    <div class="card-body">
+                        <img id="imgStatus3" src="~/img/Mesa/mesa.png" />
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col h-100">
+                <div class="card mb-sm-4 rounded-sm shadow-sm">
+                    <div class="card-header py-0" id="mesa13" style=" background-color: orangered; color:white;">
+                        <h6 class="my-0 fw-normal" id="TituloEquipamento3">Mesa 13</h6>
+                    </div>
+                    <div class="card-body">
+                        <img id="imgStatus3" src="~/img/Mesa/mesa.png" />
+                    </div>
+                </div>
+            </div>
+
+            <div class="col h-100">
+                <div class="card mb-sm-4 rounded-sm shadow-sm">
+                    <div class="card-header py-0" id="mesa14" style=" background-color: orangered; color:white;">
+                        <h6 class="my-0 fw-normal" id="TituloEquipamento3">Mesa 14</h6>
+                    </div>
+                    <div class="card-body">
+                        <img id="imgStatus3" src="~/img/Mesa/mesa.png" />
+                    </div>
+                </div>
+            </div>
+
+            <div class="col h-100">
+                <div class="card mb-sm-4 rounded-sm shadow-sm">
+                    <div class="card-header py-0" id="mesa15" style=" background-color: orangered; color:white;">
+                        <h6 class="my-0 fw-normal" id="TituloEquipamento3">Mesa 15</h6>
+                    </div>
+                    <div class="card-body">
+                        <img id="imgStatus3" src="~/img/Mesa/mesa.png" />
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="h-100 row row-cols-1 row-cols-md-1 mb-0 espaco_mesas text-center">
+            <div class="col h-100">
+                <div class="card mb-4 rounded-3 shadow-sm">
+                    <div class="card-header py-0 " id="mesa16" style=" background-color: orangered; color:white;">
+                        <h6 class="my-0 fw-normal" id="Mesa0">Mesa 16</h6>
+                    </div>
+                    <div class="card-body">
+                        <img id="imgStatus3" src="~/img/Mesa/mesa.png" />
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col h-100">
+                <div class="card mb-4 rounded-3 shadow-sm">
+                    <div class="card-header py-0" id="mesa17" style=" background-color: orangered; color:white;">
+                        <h6 class="my-0 fw-normal" id="TituloEquipamento2">Mesa 17</h6>
+                    </div>
+                    <div class="card-body">
+                        <img id="imgStatus3" src="~/img/Mesa/mesa.png" />
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col h-100">
+                <div class="card mb-sm-4 rounded-sm shadow-sm">
+                    <div class="card-header py-0" id="mesa18" style=" background-color: orangered; color:white;">
+                        <h6 class="my-0 fw-normal" id="TituloEquipamento3">Mesa 18</h6>
+                    </div>
+                    <div class="card-body">
+                        <img id="imgStatus3" src="~/img/Mesa/mesa.png" />
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col h-100">
+                <div class="card mb-sm-4 rounded-sm shadow-sm">
+                    <div class="card-header py-0" id="mesa19" style=" background-color: orangered; color:white;">
+                        <h6 class="my-0 fw-normal" id="TituloEquipamento3">Mesa 19</h6>
+                    </div>
+                    <div class="card-body">
+                        <img id="imgStatus3" src="~/img/Mesa/mesa.png" />
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col h-100">
+                <div class="card mb-sm-4 rounded-sm shadow-sm">
+                    <div class="card-header py-0" id="mesa20" style=" background-color: orangered; color:white;">
+                        <h6 class="my-0 fw-normal" id="TituloEquipamento3">Mesa 20</h6>
+                    </div>
+                    <div class="card-body">
+                        <img id="imgStatus3" src="~/img/Mesa/mesa.png" />
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col h-100">
+                <div class="card mb-sm-4 rounded-sm shadow-sm">
+                    <div class="card-header py-0" id="mesa21" style=" background-color: orangered; color:white;">
+                        <h6 class="my-0 fw-normal" id="TituloEquipamento3">Mesa 21</h6>
+                    </div>
+                    <div class="card-body">
+                        <img id="imgStatus3" src="~/img/Mesa/mesa.png" />
+                    </div>
+                </div>
+            </div>
+
+            <div class="col h-100">
+                <div class="card mb-sm-4 rounded-sm shadow-sm">
+                    <div class="card-header py-0" id="mesa22" style=" background-color: orangered; color:white;">
+                        <h6 class="my-0 fw-normal" id="TituloEquipamento3">Mesa 22</h6>
+                    </div>
+                    <div class="card-body">
+                        <img id="imgStatus3" src="~/img/Mesa/mesa.png" />
+                    </div>
+                </div>
+            </div>
+
+            <div class="col h-100">
+                <div class="card mb-sm-4 rounded-sm shadow-sm">
+                    <div class="card-header py-0" id="mesa23" style=" background-color: orangered; color:white;">
+                        <h6 class="my-0 fw-normal" id="TituloEquipamento3">Mesa 23</h6>
+                    </div>
+                    <div class="card-body">
+                        <img id="imgStatus3" src="~/img/Mesa/mesa.png" />
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="h-100 row row-cols-1 row-cols-md-1 mb-0 espaco_mesas text-center">
+            <div class="col h-100">
+                <div class="card mb-4 rounded-3 shadow-sm">
+                    <div class="card-header py-0 " id="mesa24" style=" background-color: orangered; color:white;">
+                        <h6 class="my-0 fw-normal">Mesa 24</h6>
+                    </div>
+                    <div class="card-body">
+                        <img id="imgStatus3" src="~/img/Mesa/mesa.png" />
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col h-100">
+                <div class="card mb-4 rounded-3 shadow-sm">
+                    <div class="card-header py-0" id="mesa25" style=" background-color: orangered; color:white;">
+                        <h6 class="my-0 fw-normal" id="TituloEquipamento2">Mesa 25</h6>
+                    </div>
+                    <div class="card-body">
+                        <img id="imgStatus3" src="~/img/Mesa/mesa.png" />
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col h-100">
+                <div class="card mb-sm-4 rounded-sm shadow-sm">
+                    <div class="card-header py-0" id="mesa26" style=" background-color: orangered; color:white;">
+                        <h6 class="my-0 fw-normal" id="TituloEquipamento3">Mesa 26</h6>
+                    </div>
+                    <div class="card-body">
+                        <img id="imgStatus3" src="~/img/Mesa/mesa.png" />
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col h-100">
+                <div class="card mb-sm-4 rounded-sm shadow-sm">
+                    <div class="card-header py-0" id="mesa27" style=" background-color: orangered; color:white;">
+                        <h6 class="my-0 fw-normal" id="TituloEquipamento3">Mesa 27</h6>
+                    </div>
+                    <div class="card-body">
+                        <img id="imgStatus3" src="~/img/Mesa/mesa.png" />
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col h-100">
+                <div class="card mb-sm-4 rounded-sm shadow-sm">
+                    <div class="card-header py-0" id="mesa28" style=" background-color: orangered; color:white;">
+                        <h6 class="my-0 fw-normal" id="TituloEquipamento3">Mesa 28</h6>
+                    </div>
+                    <div class="card-body">
+                        <img id="imgStatus3" src="~/img/Mesa/mesa.png" />
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col h-100">
+                <div class="card mb-sm-4 rounded-sm shadow-sm">
+                    <div class="card-header py-0" id="mesa29" style=" background-color: orangered; color:white;">
+                        <h6 class="my-0 fw-normal" id="TituloEquipamento3">Mesa 29</h6>
+                    </div>
+                    <div class="card-body">
+                        <img id="imgStatus3" src="~/img/Mesa/mesa.png" />
+                    </div>
+                </div>
+            </div>
+
+            <div class="col h-100">
+                <div class="card mb-sm-4 rounded-sm shadow-sm">
+                    <div class="card-header py-0" id="mesa30" style=" background-color: orangered; color:white;">
+                        <h6 class="my-0 fw-normal" id="TituloEquipamento3">Mesa 30</h6>
+                    </div>
+                    <div class="card-body">
+                        <img id="imgStatus3" src="~/img/Mesa/mesa.png" />
+                    </div>
+                </div>
+            </div>
+
+            <div class="col h-100">
+                <div class="card mb-sm-4 rounded-sm shadow-sm">
+                    <div class="card-header py-0" id="mesa31" style=" background-color: orangered; color:white;">
+                        <h6 class="my-0 fw-normal" id="TituloEquipamento3">Mesa 31</h6>
+                    </div>
+                    <div class="card-body">
+                        <img id="imgStatus3" src="~/img/Mesa/mesa.png" />
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Modal -->
+        <div class="modal fade  bd-example-modal-lg" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true" >
+            <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLongTitle">Pedido: &nbsp &nbsp</h5>
+                        
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <span class="label label-danger">Mesa:</span>
+                        <span class="label label-danger" id="MesaSelecionada"></span>
+                        <br />
+                        <span class="label label-danger">Numero do Pedido:</span>
+                        <span class="modal-title" id="h5IdPedido"></span>
+                        <span class="label label-danger">Tipo de Pagamento</span>
+                        <select class="form-select form-select-lg mb-3" id="SelectTipoPagamento" aria-label=".form-select-lg example">
+                        </select>
+                        <br />
+                        <table class="table table-hover" id="tabelaElementos">
+                            <thead id="CabecalhoTabela">
+
+                            </thead>
+                            <tbody id="CorpoTabela">
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-danger" data-dismiss="modal">Sair</button>
+                        <button type="button" class="btn btn-primary" onclick="FecharPedido(1)">Fechar Pedido</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </main>
+</div>
+@section Scripts
+{ 
+
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+<script src="~/lib/jquery-validation/dist/additional-methods.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+<script>
+        $(document).ready(function ()
+        {
+            setInterval(function () {
+                $.ajax({
+                    type: "POST",
+                    url: "@Url.ActionLink("ExibirInformacoesNaTela")",
+                    dataType: "JSON",
+                    success: function (dados) {
+                        let i = 1; $(dados).each(function () {
+                           
+                            if (this.Status == true) {
+                                document.getElementById("mesa" + i).style.backgroundColor = "Crimson";
+                                document.getElementById("btnCriarPedidoMesa" + i).style.display = "none";
+                                document.getElementById("btnFecharPedidoMesa" + i).style.display = "block";
+                            }
+                            else {
+                                document.getElementById("mesa" + i).style.backgroundColor = "limegreen";
+                                document.getElementById("btnCriarPedidoMesa" + i).style.display = "block";
+                                document.getElementById("btnFecharPedidoMesa" + i).style.display = "none";
+                            }
+
+                            i++;
+                        });
+                    },
+                    error: function (mgs) {
+                        alert("ERRO"+msg);
+                    }
+                })
+            }, 5000);
+        });
+</script>
+
+<script>
+        function BuscarItensPedido(idPedido) {
+            $(document).ready(function ()
+            {
+                BuscarTipoPagamento();
+                BuscarIdPedido(idPedido);
+                document.getElementById("MesaSelecionada").innerHTML = idPedido;
+                $.ajax({
+                    type: "POST",
+                    url: "@Url.ActionLink("Privacy")",
+                    data: { IdPedido: idPedido },
+                    dataType: "JSON",
+                    success: function (dados)
+                    {
+                        let cabec = $("#CabecalhoTabela");
+                        let corpo = $("#CorpoTabela");
+
+                        cabec.empty();
+                        corpo.empty();
+
+                        var linhacabec = document.createElement("tr");
+                        var colunaId = document.createElement("td");
+                        var colunaNome = document.createElement("td");
+                        var colunaCliente = document.createElement("td");
+                        var colunaQuantidade = document.createElement("td");
+                        var colunaPrecoUnitario = document.createElement("td");
+
+                        var strongId = document.createElement("strong");
+                        var strongNome = document.createElement("strong");
+                        var strongCliente = document.createElement("strong");
+                        var strongQuantidade = document.createElement("strong");
+                        var strongPrecoUnitario = document.createElement("strong");
+
+                        var Id = document.createTextNode("Id");
+                        var Nome = document.createTextNode("Nome");
+                        var Cliente = document.createTextNode("Cliente");
+                        var Quantidade = document.createTextNode("Quantidade");
+                        var PrecoUnitario = document.createTextNode("Preco");
+
+                        strongId.appendChild(Id);
+                        strongNome.appendChild(Nome);
+                        strongCliente.appendChild(Cliente);
+                        strongQuantidade.appendChild(Quantidade);
+                        strongPrecoUnitario.appendChild(PrecoUnitario);
+
+                        colunaId.appendChild(strongId);
+                        colunaNome.appendChild(strongNome);
+                        colunaCliente.appendChild(strongCliente);
+                        colunaQuantidade.appendChild(strongQuantidade);
+                        colunaPrecoUnitario.appendChild(strongPrecoUnitario);
+
+                        linhacabec.appendChild(colunaId);
+                        linhacabec.appendChild(colunaNome);
+                        linhacabec.appendChild(colunaCliente);
+                        linhacabec.appendChild(colunaQuantidade);
+                        linhacabec.appendChild(colunaPrecoUnitario);
+
+                        document.getElementById("CabecalhoTabela").appendChild(linhacabec);
+
+                        $(dados).each(function () {
+                            var linhabody = document.createElement("tr");
+                            var colunaValorId = document.createElement("td");
+                            var colunaValorNome = document.createElement("td");
+                            var colunaValorCliente = document.createElement("td");
+                            var colunaValorQuantidade = document.createElement("td");
+                            var colunaValorPrecoUnitario = document.createElement("td");
+
+                            var strongValorId = document.createElement("strong");
+                            var strongValorNome = document.createElement("strong");
+                            var strongValorCliente = document.createElement("strong");
+                            var strongValorQuantidade = document.createElement("strong");
+                            var strongValorPrecoUnitario = document.createElement("strong");
+
+                            var IdValor = document.createTextNode(this.ItenId);
+                            var NomeValor = document.createTextNode(this.Nome);
+                            var ClienteValor = document.createTextNode(this.Cliente);
+                            var QuantidadeValor = document.createTextNode(this.Quantidade);
+                            var PrecoUnitarioValor = document.createTextNode(this.ValorTotal);
+
+                            strongValorId.appendChild(IdValor);
+                            strongValorNome.appendChild(NomeValor);
+                            strongValorCliente.appendChild(ClienteValor);
+                            strongValorQuantidade.appendChild(QuantidadeValor);
+                            strongValorPrecoUnitario.appendChild(PrecoUnitarioValor);
+
+                            colunaValorId.appendChild(strongValorId);
+                            colunaValorNome.appendChild(strongValorNome);
+                            colunaValorCliente.appendChild(strongValorCliente);
+                            colunaValorQuantidade.appendChild(strongValorQuantidade);
+                            colunaValorPrecoUnitario.appendChild(strongValorPrecoUnitario);
+
+                            linhabody.appendChild(colunaValorId);
+                            linhabody.appendChild(colunaValorNome);
+                            linhabody.appendChild(colunaValorCliente);
+                            linhabody.appendChild(colunaValorQuantidade);
+                            linhabody.appendChild(colunaValorPrecoUnitario);
+
+                            document.getElementById("CorpoTabela").appendChild(linhabody);
+
+                        });
+
+                    },
+                    error: function (mgs) {
+                        alert("ERRO");
+                    }
+                })
+
+            })
+        };
+</script>
+
+
+<script>
+    function CriarPedido(idMesa)
+    {
+        $.ajax
+            ({
+                type: "POST",
+                url: "@Url.ActionLink("CriarPedido", "Pedido")",
+                data: { IdMesa: idMesa },
+                dataType: "JSON",
+                success: function (dados) {
+                    if (dados.Status == true)
+                        alert(dados.Status +"N'ao pode criar um novo pedido para a mesa que esta em uso");
+                },
+                error: function () {
+                    return false;
+                }
+            })
+    };
+</script>
+
+<script>
+    function FecharPedido(idMesa)
+    {
+        var select = document.getElementById("SelectTipoPagamento");
+        var val = select.options[select.selectedIndex].value;
+        var tipoPagamento = select.options[select.selectedIndex].id;
+        var idMesa = document.getElementById("MesaSelecionada").textContent;
+        var idPedido = document.getElementById("h5IdPedido").innerText;
+        alert(idPedido + " " + idMesa);
+        $.ajax
+            ({
+                type: "POST",
+                url: "@Url.ActionLink("FecharPedido", "Pedido")",
+                data: { IdPedido: idPedido, IdMesa: idMesa, TipoPagamento: tipoPagamento },
+                dataType: "JSON",
+                success: function (dados) {
+                    if (dados.Status == true)
+                        alert("Pedido Fechado");
+                },
+                error: function () {
+                    return false;
+                }
+            })
+    };
+</script>
+<script>
+    function BuscarTipoPagamento() {
+         $(document).ready(function () {
+
+             let limparSelect = $("#SelectTipoPagamento");
+             limparSelect.empty();
+
+             $.ajax({
+                 type: "POST",
+                 url: "@Url.ActionLink("GetTipoPagamento","Pedido")",
+                 dataType: "JSON",
+                 success: function (msg) {
+                     $(msg).each(function () {
+                         const tipoPagamentoSelect = document.getElementById("SelectTipoPagamento");
+                         let option = new Option(this.Tipo);
+                         option.id = this.Id;
+                         tipoPagamentoSelect.options[tipoPagamentoSelect.options.length] = option;
+                     })
+                 },
+                 error: function () {
+
+                 }
+             })
+         })
+     };
+
+</script>
+<script>
+    function BuscarIdPedido(idMesa) {
+         $(document).ready(function () {
+             $.ajax({
+                 type: "POST",
+                 url: "@Url.ActionLink("GetIdPedido", "Pedido")",
+                 data: { IdMesa: idMesa},
+                 dataType: "JSON",
+                 success: function (msg) {
+                         document.getElementById("h5IdPedido").innerHTML = msg;
+                     
+                 },
+                 error: function () {
+
+                 }
+             })
+         })
+     };
+
+</script>
+
+}
