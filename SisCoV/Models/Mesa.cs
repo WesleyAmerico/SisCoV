@@ -97,21 +97,22 @@ namespace SisCoV.Models
 
                 ConexaoMySQL conn = new ConexaoMySQL();
                 var retorno = conn.RetornaDataTable(_query);
+                if(retorno != null) 
+                { 
+                    for (int i = 0; i < retorno.Rows.Count; i++)
+                    {
+                        var Id = Convert.ToInt32(retorno.Rows[i]["Id"]);
+                        var Numero = Convert.ToInt32(retorno.Rows[i]["Numero"]);
+                        var Status = Convert.ToBoolean(retorno.Rows[i]["Status"]);
 
-                for (int i = 0; i < retorno.Rows.Count; i++)
-                {
-                    var Id = Convert.ToInt32(retorno.Rows[i]["Id"]);
-                    var Numero = Convert.ToInt32(retorno.Rows[i]["Numero"]);
-                    var Status = Convert.ToBoolean(retorno.Rows[i]["Status"]);
+                        Mesa mesa = new Mesa(Id, Numero, Status);
 
-                    Mesa mesa = new Mesa(Id, Numero, Status);
-
-                    mesas.Add(mesa);
+                        mesas.Add(mesa);
+                    }
                 }
-
                 return mesas;
             }
-            catch (Exception)
+            catch (Exception ex)
             {
 
                 throw;

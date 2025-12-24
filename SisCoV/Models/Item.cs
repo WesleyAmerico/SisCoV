@@ -90,7 +90,8 @@ namespace SisCoV.Models
             catch (Exception ex)
             {
 
-                throw ex;
+                //throw ex;
+                return null;
             }
         }
     }

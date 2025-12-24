@@ -1,4 +1,5 @@
 ﻿using AcessoBancoDados;
+using Microsoft.AspNetCore.Http.Connections;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -125,15 +126,19 @@ namespace SisCoV.Models
                 ConexaoMySQL conn = new ConexaoMySQL();
                 conn.LimparParamentros();
                 conn.InserirParametro("Id", Id);
-                conn.ExecutarManipulacao(CommandType.Text, _query);
+                var teste = conn.ExecutarManipulacao(CommandType.Text, _query);
 
                 return true;
             }
             catch (Exception ex)
             {
-
-                throw;
+                return false;
             }
+        }
+
+        public List<string> ClientesItens(long ItensPedididos_id)
+        {
+            return new List<string>();
         }
 
     }

@@ -63,7 +63,7 @@ namespace SisCoV.Models
 
                 return _listaPorcoesPedidos;
             }
-            catch (Exception)
+            catch (Exception ex)
             {
 
                 throw;
@@ -121,7 +121,7 @@ namespace SisCoV.Models
         {
             try
             {
-                List<ExibirPedidos> _listaLanchesPedidos = new List<ExibirPedidos>();
+                List<ExibirPedidos> _listaBebibasPedidos = new List<ExibirPedidos>();
                 ExibirPedidos _exibirPedidos = null;
 
                 string _sql = "SELECT itens_pedidos.Quantidade, " +
@@ -150,10 +150,10 @@ namespace SisCoV.Models
                     var _quantidade = Convert.ToInt32(dt.Rows[i]["Quantidade"]);
 
                     _exibirPedidos = new ExibirPedidos(_idPedido, _idItemPedido, _cliente, _nome, _quantidade);
-                    _listaLanchesPedidos.Add(_exibirPedidos);
+                    _listaBebibasPedidos.Add(_exibirPedidos);
                 }
 
-                return _listaLanchesPedidos;
+                return _listaBebibasPedidos;
             }
             catch (Exception)
             {

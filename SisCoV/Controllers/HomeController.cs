@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using SisCoV.Models;
 using SistAL.Models.Json;
@@ -7,6 +7,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Http;
 
 namespace SisCoV.Controllers
 {
@@ -21,17 +22,10 @@ namespace SisCoV.Controllers
 
         public IActionResult Index()
         {
-            int a = 5;
-            int b = 4;
-            int c = 9;
-            string resultadoVer;
-
-            if (a > b && a > c)
-                resultadoVer = "A MAior";
-            else if (b > a && b > c)
-                resultadoVer = "B MAior";
-            else if(c > a && c > b)
-                resultadoVer = "C MAior";
+            if (string.IsNullOrEmpty(HttpContext.Session.GetString("Username")))
+            {
+                return RedirectToAction("Login");
+            }
 
             Item item = new Item(1);
             var retorno = item.BuscarItens(1);
@@ -43,9 +37,32 @@ namespace SisCoV.Controllers
             return View();
         }
 
+        [HttpGet]
+        public IActionResult Login()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Login(string username, string password)
+        {
+            if (username == "admin" && password == "admin")
+            {
+                HttpContext.Session.SetString("Username", username);
+                return RedirectToAction("Index");
+            }
+            ViewData["Error"] = "Invalid username or password.";
+            return View();
+        }
+
+        public IActionResult Logout()
+        {
+            HttpContext.Session.Clear();
+            return RedirectToAction("Login");
+        }
+
         public IActionResult ExibirInformacoesNaTela()
         {
-           
             Mesa mesa = new Mesa();
             var status = mesa.VerificarStatusMesa();
 

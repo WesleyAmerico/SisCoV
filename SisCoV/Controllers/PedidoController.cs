@@ -63,7 +63,7 @@ namespace SisCoV.Controllers
             
         }
        
-        public IActionResult CriarPedido(int idMesa)
+        public IActionResult CriarPedido(int idMesa, string NomeCliente)
         {
             try
             {

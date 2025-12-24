@@ -9,7 +9,8 @@ namespace AcessoBancoDados
      public class ConexaoMySQL
     {
         //variavel para adcionar parametros que serao enviados para banco de dados  via comandoSQL
-        private MySqlParameterCollection mySqlParameterCollection = new MySqlCommand().Parameters;
+        private MySqlParameterCollection mySqlParameterCollection = new MySqlCommand()
+            .Parameters;
 
         //Variavel que vai passar os parametros para conectar com o banco
         private string _stringConexao;
@@ -49,7 +50,7 @@ namespace AcessoBancoDados
             //instanciando um novo objeto de conexao 
             this._objetoConexao = new MySqlConnection();
             //recebendo os dados do usuario e armazenando na variavel que vai passar os parametros para o objeto
-            this._stringConexao = @"Persist Security Info=False; Server = localhost; Database = siscov; uid=root; pwd= '123'; convert zero datetime=True";
+            this._stringConexao = @"Persist Security Info=False; Server = 192.168.15.93; Database = siscov; uid=root; pwd= '123'; convert zero datetime=True";
             //passando os parametros da variavel para o objeto
             this._objetoConexao.ConnectionString = this._stringConexao;
 
@@ -85,7 +86,6 @@ namespace AcessoBancoDados
 
                 //TratamentoLog.GravarLog("Não foi possivel Conectar com Banco" + ex, TratamentoLog.NivelLog.Erro);
                 return false;
-                throw;
             }
            
         }
@@ -202,11 +202,11 @@ namespace AcessoBancoDados
 
                 return dadosTabela;
             }
-            catch (Exception sqlex)
+            catch (Exception ex)
             {
 
                 //TratamentoLog.GravarLog("Não foi possivel executar RetornaDadosTabela ", TratamentoLog.NivelLog.Erro);
-                throw;
+                return null;
             }
 
         }
